@@ -309,8 +309,6 @@ main > .programs > .p-cards-container {
   display: flex;
   gap: 30px;
   justify-content: center;
-  
-  
 }
 
 main > .programs > .p-cards-container > .p-card{
